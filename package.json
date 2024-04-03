@@ -25,6 +25,7 @@
   "scripts": {
     "test": "nodeunit"
   },
+  "type": "module",
   "types": "./lib/mixpanel-node.d.ts",
   "devDependencies": {
     "nodeunit": "^0.11.3",
