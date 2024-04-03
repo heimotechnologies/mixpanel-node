@@ -11,7 +11,7 @@
   "homepage": "https://github.com/mixpanel/mixpanel-node",
   "author": "Carl Sverre",
   "license": "MIT",
-  "main": "lib/mixpanel-node",
+  "main": "lib/mixpanel-node.js",
   "directories": {
     "lib": "lib"
   },
